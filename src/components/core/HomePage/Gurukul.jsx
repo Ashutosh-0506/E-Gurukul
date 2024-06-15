@@ -22,7 +22,7 @@ const Gurukul = () => {
   
     return (
       <div >
-        <div className='w-full flex justify-between mt-20'>
+        <div className='w-full flex-col lg:flex-row justify-between mt-20'>
           <div className='w-1/2 flex flex-col items-center justify-center'>
             
           <Link to={"/signup"}>
