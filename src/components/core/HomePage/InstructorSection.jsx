@@ -22,7 +22,11 @@ const InstructorSection = () => {
             </h1>
 
             <p className="font-medium text-[16px] text-justify w-[90%] text-richblack-300">
+<<<<<<< HEAD
               Instructors from around the world teach millions of students on
+=======
+              Gurus from around the world teach millions of students on
+>>>>>>> 73cdb3c2e13f5db3bfb7f4c5e9aa1c0f1752229d
               E-Gurukul. We provide the tools and skills to teach what you
               love.
             </p>
